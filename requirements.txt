@@ -1,0 +1,7 @@
+PyQt5
+requests
+paramiko
+qdarkstyle
+Fernet
+matplotlib
+pyinstaller
